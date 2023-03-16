@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-  std::cout << "Hello World!\n";
-
   std::ifstream myfile ("madness.acmcsuf.txt");
 
   unordered_set<string> hashSet;
