@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!\n";
-
   //  variables
   double pi = 3.141592653589793;
   double n, radius, area, diff_area;
